@@ -3,3 +3,5 @@ Edad:20 años
 Juegos actuales: Battlefield
 Juegos favoritos: Gears of war
 Carrera:
+Materia:
+Semestre:
