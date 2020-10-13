@@ -2,6 +2,6 @@ Nombre: Diana Karen Esquivel Hernandez
 Edad:20 años
 Juegos actuales: Battlefield
 Juegos favoritos: Gears of war
-Carrera:
-Materia:
-Semestre:
+Carrera: Ingeniería Petrolera
+Materia: Fundamentos de programación
+Semestre: 5to semestre
